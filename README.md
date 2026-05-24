@@ -1,1 +1,127 @@
 # Arik_Malueth-Portfolio
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Student Portfolio</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <nav class="navbar">
+      <h1 class="logo">Arik Malueth</h1>
+      <ul class="nav-links">
+        <li><a href="#about">About</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#experience">Experience</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-text">
+        <p class="tagline">Student Portfolio</p>
+        <h2>Hi, I am <span>Your Name</span></h2>
+        <p>I'm name is Arik Malueth and I am the graduation class of 2026 for Southport highschool. 
+          My future plans are to go to college at Indiana State for geology and/or biology so I can become a paleontologist</p>
+        <a class="button" href="#projects">View My Work</a>
+      </div>
+      <div class="https://avatarfiles.alphacoders.com/319/thumb-1920-319252.jpg">
+        <p>Profile Image Placeholder</p>
+      </div>
+    </section>
+
+    <section id="about" class="section">
+      <h2>About Me</h2>
+      <p>I am a senior in Southport Highschool, soon to be graduated. 
+      I am on the school's track team and love doing it. Some of my hobbies are runninig, sleeping, and doing origami,
+      and putting smiles on people's faces. I am learning to make a portfolio of myself for not only for the class and
+      for the grade, but for job applications.</p>
+    </section>
+
+    <section id="skills" class="section">
+      <h2>Skills</h2>
+      <div class="grid three-columns">
+        <div class="card">
+          <h3>Technical Skills</h3>
+          <p>I have dabbled in some skills like, JavaScript, Scratch, Python, Arduino, 
+            and have experience with helping build and code a robotics projects.</p>
+        </div>
+        <div class="card">
+          <h3>Soft Skills</h3>
+          <p>I have amazing teamwork experience, communication, and creativity, 
+            with great leadership, and problem solving.</p>
+        </div>
+        <div class="card">
+          <h3>Tools</h3>
+          <p>I have experience with using GitHub, VS Code, Tinkercad, 
+            and I am great at Google Docs and Canva.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="projects" class="section">
+      <h2>Projects</h2>
+      <div class="grid two-columns">
+        <article class="card project-card">
+          <h3> Imagine If Project</h3>
+          <p>My Imagine If Project this year was called: BeatBoard. It was a website where anyone could make music. It was a 4-instrument 
+            8-step interactive beat grid using HTML and JavaScript. We learned that it is pretty hard to make beats and 
+            start your music career, but with this website, it'll help a little and get you started.</p>
+          <a href="https://www.canva.com/design/DAHIWCXRdx8/TR8Bno1dZ7E-rTIv5FVWMQ/edit">Project Link</a>
+        </article>
+        <article class="card project-card">
+          <h3> Imagine If Project #2</h3>
+          <p>My Imagine If project from last year was called: Sober Steps. It was a website 
+            that'll help decrease the amount of addicts and homelessness in Indiana. Now it wasn't perfect,
+            and I didn't have it finished, but I did have the informational part of the website done. 
+            So I would say that it was done. What I learned was there are a lot of homeless and addicts people in the world, 
+            let alone indiana as a state. I think that knowing what could happen to you will hopefully make you want to stop.</p>
+          <a href="https://www.canva.com/design/DAGhuREegaE/II1yRCbV4gu5-k-ow_n5Dg/edit">Project Link</a>
+        </article>
+       
+      </div>
+    </section>
+
+    <section id="experience" class="section">
+      <h2>Experience / Activities</h2>
+      <div class="card">
+        <h3>Activity, Club, Class, Volunteer Work, or Job</h3>
+        <p>I have been on the track team for 2 years, starting my Junior year of highschool. I was pretty fast, but not fast enough.
+           So when I was attending track meets that I weren't in, I instead just helped with making the track meet go well. 
+           It was a lot of responsibilities. I won and I lost, but I will work harder to hopefully not lose that much in college.</p>
+      </div>
+      <div class="card">
+        <h3>Awards / Certifications</h3>
+        <p>I was on the A/B honor roll every year in highschool because of my gpa and my grades.
+           I was so close to getting A honor roll my junior year, but I was focusing too much on track at the time.</p>
+      </div>
+    </section>
+
+    <section id="resume" class="section">
+      <h2>Resume</h2>
+      <p>Here is my resume. It's not really that professional, but it has my name, contact info, experiences, skills, etc.</p>
+      <a class="button" href="file:///C:/Users/Home/Downloads/Resume.pdf">Resume Link</a>
+    </section>
+
+    <section id="contact" class="section contact-section">
+      <h2>Contact</h2>
+      <p>If you want to contact me my information is below. My professional email and GitHub profile.</p>
+      <div class="contact-links">
+        <a href="arikmalueth@gmail.com">Email</a>
+        <a href="#">GitHub</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2026 Arik Malueth.</p>
+  </footer>
+</body>
+</html>
+
+
