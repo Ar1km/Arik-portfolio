@@ -35,7 +35,7 @@
       </div>
     </section>
 
-    <section id="about" class="section">
+  <section id="about" class="section">
       <h2>About Me</h2>
       <p>I am a senior in Southport Highschool, soon to be graduated. 
       I am on the school's track team and love doing it. Some of my hobbies are runninig, sleeping, and doing origami,
@@ -43,7 +43,7 @@
       for the grade, but for job applications.</p>
     </section>
 
-    <section id="skills" class="section">
+   <section id="skills" class="section">
       <h2>Skills</h2>
       <div class="grid three-columns">
         <div class="card">
@@ -64,7 +64,7 @@
       </div>
     </section>
 
-    <section id="projects" class="section">
+   <section id="projects" class="section">
       <h2>Projects</h2>
       <div class="grid two-columns">
         <article class="card project-card">
@@ -84,10 +84,10 @@
           <a href="https://www.canva.com/design/DAGhuREegaE/II1yRCbV4gu5-k-ow_n5Dg/edit">Project Link</a>
         </article>
        
-      </div>
+  </div>
     </section>
 
-    <section id="experience" class="section">
+   <section id="experience" class="section">
       <h2>Experience / Activities</h2>
       <div class="card">
         <h3>Activity, Club, Class, Volunteer Work, or Job</h3>
@@ -102,13 +102,13 @@
       </div>
     </section>
 
-    <section id="resume" class="section">
+  <section id="resume" class="section">
       <h2>Resume</h2>
       <p>Here is my resume. It's not really that professional, but it has my name, contact info, experiences, skills, etc.</p>
       <a class="button" href="file:///C:/Users/Home/Downloads/Resume.pdf">Resume Link</a>
     </section>
 
-    <section id="contact" class="section contact-section">
+  <section id="contact" class="section contact-section">
       <h2>Contact</h2>
       <p>If you want to contact me my information is below. My professional email and GitHub profile.</p>
       <div class="contact-links">
